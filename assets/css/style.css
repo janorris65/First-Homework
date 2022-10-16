@@ -63,7 +63,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*The right side bar*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -101,7 +101,7 @@ main div {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*main is broken into two parts, section and div, to facilitate image flip-flip*/
 main div img {
     max-height: 200px;
     max-width: 250px;
